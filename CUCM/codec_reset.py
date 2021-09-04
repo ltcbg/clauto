@@ -34,7 +34,7 @@ if __name__ == "__main__":
     cucm_ip = "10.1.5.5"
     cucm_user = "Administrator"
     cucm_pw = "C0ll@B"
-    ip = "10.1.5.155"
+    ip = "192.168.0.155"
     user = "admin"
     pw = ""
     old_mac = "000000000000"
